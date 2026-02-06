@@ -10,7 +10,7 @@
 <body>
     <h1><?php echo "<i>welcone</i>"?></h1>
     <h1><?php echo $name;?></h1>
-    <h1><?php echo $course;?></h1>
+    <h1><?php echo $course;?></h1> 
     <h1><?php echo $subject;?></h1>
     <h1><?php echo $contact;?></h1>
     <?php
